@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bfa7dba8.css",
+    "main.js": "/static/js/main.a9ffd9f7.js",
+    "static/js/787.c4bf6651.chunk.js": "/static/js/787.c4bf6651.chunk.js",
+    "static/media/profilpic.png": "/static/media/profilpic.d7f68b872ec3d79d5a4f.png",
+    "static/media/html.png": "/static/media/html.1245635ee8e19982c45c.png",
+    "static/media/css.png": "/static/media/css.7d039f840c0c251dd48a.png",
+    "static/media/bg1.jpeg": "/static/media/bg1.9d809fc3572057bc1bab.jpeg",
+    "static/media/communication.png": "/static/media/communication.03df6bfb7c673cee3040.png",
+    "static/media/time.jpg": "/static/media/time.e1f84c6708f0902a9a6a.jpg",
+    "static/media/criticalt.jfif": "/static/media/criticalt.dd3cfc5d7381061f9a1e.jfif",
+    "static/media/team.jpg": "/static/media/team.8e082a34d37380997f41.jpg",
+    "static/media/leadership.jfif": "/static/media/leadership.a4d80afdb4b61120560c.jfif",
+    "static/media/python.png": "/static/media/python.04ddea1b43164f05b756.png",
+    "static/media/problem.jfif": "/static/media/problem.2a165dd8b665a27c3006.jfif",
+    "static/media/vb.webp": "/static/media/vb.2fb0d2d104692024f83a.webp",
+    "static/media/javascript.webp": "/static/media/javascript.4d194752c05a13682547.webp",
+    "index.html": "/index.html",
+    "main.bfa7dba8.css.map": "/static/css/main.bfa7dba8.css.map",
+    "main.a9ffd9f7.js.map": "/static/js/main.a9ffd9f7.js.map",
+    "787.c4bf6651.chunk.js.map": "/static/js/787.c4bf6651.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfa7dba8.css",
+    "static/js/main.a9ffd9f7.js"
+  ]
+}
