@@ -1,0 +1,51 @@
+.App {
+    text-align: center;
+}
+
+.skillsContainer {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0.2rem;
+}
+
+.techskills h2,
+.softskills h2 {
+    font-family: Athiti;
+    font-weight: bolder;
+    font-size: 30pt;
+    margin-bottom: 40px;
+}
+
+.softskills h2 {
+    color: #fff;
+    margin-bottom: 3rem;
+}
+
+.softskills {
+    margin-top: 3rem;
+    background-color: #031320;
+}
+
+#linebreak {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 4em;
+}
+
+#linebreak i {
+    margin: auto;
+    font-size: 30pt;
+}
+
+#linebreak2 {
+    display: flex;
+    justify-content: center;
+    /* margin-bottom: 4em; */
+    color: white;
+    background-color: #031320;
+}
+
+#linebreak2 i {
+    margin: auto;
+    font-size: 30pt;
+}

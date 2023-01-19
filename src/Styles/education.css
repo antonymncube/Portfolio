@@ -1,0 +1,27 @@
+.educationcard{
+    background-color: #031320;
+    padding: 2rem;
+}
+
+.educationHeader {
+    font-family: Athiti;
+    font-weight: bolder;
+    font-size: 30pt;
+    color:white;
+    margin-bottom: 2rem;
+    text-transform: uppercase;
+}
+
+.list2 li{
+    font-family: Athiti;
+    font-weight: 100px;
+    font-size: x-large;
+    list-style: none;
+    color: #fff;
+}
+
+.educationconatainer {
+    background-color:#031320;
+}
+
+ 

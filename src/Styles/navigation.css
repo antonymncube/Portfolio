@@ -1,0 +1,67 @@
+#navigation {
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    background-color: #031320;
+    transition: all .5s;
+}
+
+#navbarNavAltMarkup{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.logoContainer{
+    /* background-color: wheat; */
+    margin-left: 1rem;
+}
+
+.logoContainer .brand-name {
+    font-family: 'Sofia Sans Semi Condensed';
+    color: white;
+}
+
+.nav2 {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 2px;
+    gap: .7rem;
+}
+
+.nav2 a{
+    font-family: 'Abel';
+    font-size: 14pt;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: #031320;
+    transition: all .7s;
+}
+
+.nav2 a:hover{
+    border-bottom-color: orange;
+}
+
+.link {
+    position: relative;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin-right: 1rem;
+}
+
+.link a {
+    color: white;
+    transition: all .5s;
+}
+
+.link a:nth-child(1){
+    text-decoration: none;
+}
+
+.link a i {
+    font-size: 15pt;
+    border-left: 3px solid rgb(11, 228, 163);
+    padding-left: 1rem;
+}
